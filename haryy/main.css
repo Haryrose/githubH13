@@ -1,0 +1,17 @@
+/** class selector  **/
+.lis{
+    color: blueviolet;
+}
+/** attribute selector **/
+[enabled]{
+    color: blue;
+}
+/** element selector **/
+body{
+  font-family: sans-serif;
+  height: 100%;
+}
+/** id selector **/
+#favor{
+    font-style: italic;
+}
